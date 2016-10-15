@@ -8,6 +8,9 @@ gem 'google-api-client', '~> 0.9'
 gem 'bing_translator', '~> 4.5.0'
 gem 'httparty'
 
+gem 'jquery-rails'
+gem 'uglifier'
+
 group :development, :test do
   gem 'byebug'
   gem 'dotenv-rails', '~> 2.1'
