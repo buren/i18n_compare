@@ -10,6 +10,8 @@ gem 'httparty'
 
 gem 'uglifier'
 
+gem 'puma'
+
 group :development, :test do
   gem 'byebug'
   gem 'dotenv-rails', '~> 2.1'
